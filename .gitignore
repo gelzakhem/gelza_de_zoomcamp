@@ -1,0 +1,12 @@
+#specific folders
+Week1/test_docker/.ipynb_checkpoints
+Week1/test_docker/ny_taxi_postgres_data
+
+*.csv
+*.ipynb
+*.csv.*
+*.tfstate
+*.tfstate.*
+**.terraform
+**.terraform.lock.*
+**google_credentials.json
