@@ -1,7 +1,7 @@
 #specific folders
 Week1/test_docker/.ipynb_checkpoints
 Week1/test_docker/ny_taxi_postgres_data
-
+Week1/test_docker/pipeline.py
 *.csv
 *.ipynb
 *.csv.*
