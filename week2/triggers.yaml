@@ -1,0 +1,12 @@
+triggers:
+- envs: []
+  last_enabled_at: 2024-02-04 19:02:50.665176
+  name: billowing sumo
+  pipeline_uuid: green_taxi_etl
+  schedule_interval: 0 5 * * *
+  schedule_type: time
+  settings: null
+  sla: null
+  start_time: 2024-02-04 05:00:00
+  status: inactive
+  variables: {}
