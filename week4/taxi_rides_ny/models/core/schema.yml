@@ -17,6 +17,8 @@ models:
         tests:
             - not_null:
                 severity: error
+
+  - name: fhv_fact_trips
       
   - name: fact_trips
     description: >
